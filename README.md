@@ -47,6 +47,11 @@
 - 设置`.py`文件路径测试[test_5](./test_5)
 - 无参数输入function调用测试[test_6](./test_6)
 
+### Class调用
+
+- [test_class](./test_class)
+- 分别测试带参和不带参的类调用
+
 ### jtop测试
 
 - 通过以上教程进行jtop功能调用
